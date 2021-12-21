@@ -1,6 +1,6 @@
 ---
 title: Filters
-tags: filter
+tags: filter,photoEditor
 ---
 
 # TwoSlideOver: Filters
