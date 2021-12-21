@@ -65,6 +65,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Plum smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/RedBerries.md))
 - [Share Photo](https://psalzAppDev.github.io/TwoSlideOverSupport/General/SharePhoto) (TwoSlideOver, share) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/General/SharePhoto.md))
+- [Slide To Compare](https://psalzAppDev.github.io/TwoSlideOverSupport/General/SlideToCompare) (TwoSlideOver, slide, compare) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/General/SlideToCompare.md))
 
 
 ## Notes

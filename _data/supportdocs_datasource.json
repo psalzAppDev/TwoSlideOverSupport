@@ -127,5 +127,14 @@
             "TwoSlideOver",
             "share"
         ]
+    },
+    {
+        "title": "Slide To Compare",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/SlideToCompare",
+        "tags": [
+            "TwoSlideOver",
+            "slide",
+            "compare"
+        ]
     }
 ]
