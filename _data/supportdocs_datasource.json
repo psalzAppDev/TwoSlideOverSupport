@@ -161,14 +161,16 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_bright",
         "tags": [
             "filter",
-            "bright"
+            "bright",
+            "photoEditor"
         ]
     },
     {
         "title": "Filters",
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_general",
         "tags": [
-            "filter"
+            "filter",
+            "photoEditor"
         ]
     },
     {
@@ -176,7 +178,8 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_summer",
         "tags": [
             "filter",
-            "summer"
+            "summer",
+            "photoEditor"
         ]
     }
 ]
