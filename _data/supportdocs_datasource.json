@@ -175,6 +175,15 @@
         ]
     },
     {
+        "title": "Colorless Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_colorless",
+        "tags": [
+            "filter",
+            "colorless",
+            "photoEditor"
+        ]
+    },
+    {
         "title": "Golden Filter",
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_golden",
         "tags": [
