@@ -48,6 +48,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 ## Table of Contents
 - [404 Page](https://psalzAppDev.github.io/TwoSlideOverSupport/404) (SupportDocs Integrated File) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/TwoSlideOverSupport/404.md))
 - [Apple smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/Apple.md))
+- [ASCIIfy Effect](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_ASCIIfy) (TwoSlideOver, effect, asciify) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor/Effect_ASCIIfy.md))
 - [Blueberry smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/Blueberry.md))
 - [Buy blue boba](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
 - [Buy cream boba](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
