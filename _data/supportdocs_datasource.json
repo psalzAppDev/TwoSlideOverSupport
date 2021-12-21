@@ -119,5 +119,13 @@
         "tags": [
             "smoothies"
         ]
+    },
+    {
+        "title": "Share Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/SharePhoto",
+        "tags": [
+            "TwoSlideOver",
+            "share"
+        ]
     }
 ]
