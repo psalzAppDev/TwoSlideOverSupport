@@ -60,6 +60,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [How to make spaghetti](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
 - [How to prepare ramen](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
 - [Peach smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/Peach.md))
+- [Photo Editor](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/PhotoEditor_Overview) (TwoSlideOver, PhotoEditor) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor/PhotoEditor_Overview.md))
 - [Plum smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/RedBerries.md))
 
