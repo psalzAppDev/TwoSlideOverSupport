@@ -1,6 +1,6 @@
 ---
 title: Slide To Compare
-tags: TwoSlideOver,slide,compare
+tags: slide,compare
 ---
 
 # TwoSlideOver: Slide To Compare
