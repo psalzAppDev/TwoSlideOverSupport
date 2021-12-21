@@ -104,8 +104,8 @@
         "title": "Import Photo",
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/ImportPhoto",
         "tags": [
-            "TwoSlideOver",
-            "import"
+            "import",
+            "general"
         ]
     },
     {
@@ -141,7 +141,7 @@
         "title": "Share Photo",
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/SharePhoto",
         "tags": [
-            "TwoSlideOver",
+            "general",
             "share"
         ]
     },
@@ -149,6 +149,7 @@
         "title": "Slide To Compare",
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/SlideToCompare",
         "tags": [
+            "general",
             "slide",
             "compare"
         ]
