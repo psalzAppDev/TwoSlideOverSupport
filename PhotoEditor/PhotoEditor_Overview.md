@@ -1,6 +1,6 @@
 ---
 title: Photo Editor
-tags: TwoSlideOver,PhotoEditor
+tags: TwoSlideOver,PhotoEditor,PhotoEditorGeneral
 ---
 
 # TwoSlideOver Photo Editor
