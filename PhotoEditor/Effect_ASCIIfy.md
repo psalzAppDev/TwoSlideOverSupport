@@ -1,6 +1,6 @@
 ---
 title: ASCIIfy Effect
-tags: TwoSlideOver,effect,asciify
+tags: effect,asciify
 ---
 
 # TwoSlideOver: ASCIIfy Effect
