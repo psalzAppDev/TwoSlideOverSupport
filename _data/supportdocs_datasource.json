@@ -154,5 +154,22 @@
             "slide",
             "compare"
         ]
+    },
+    {
+        "title": "Bright Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_bright",
+        "tags": [
+            "TwoSlideOver",
+            "filter",
+            "bright"
+        ]
+    },
+    {
+        "title": "Filters",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_general",
+        "tags": [
+            "TwoSlideOver",
+            "filter"
+        ]
     }
 ]
