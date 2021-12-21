@@ -1,6 +1,6 @@
 ---
 title: Triangulation Effect
-tags: TwoSlideOver,effect,triangulation
+tags: effect,triangulation,PhotoEditorGeneral
 ---
 
 # TwoSlideOver: Triangulation Effect
