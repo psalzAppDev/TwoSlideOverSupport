@@ -48,7 +48,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 ## Table of Contents
 - [404 Page](https://psalzAppDev.github.io/TwoSlideOverSupport/404) (SupportDocs Integrated File) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/TwoSlideOverSupport/404.md))
 - [Apple smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/Apple.md))
-- [ASCIIfy Effect](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_ASCIIfy) (TwoSlideOver, effect, asciify) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor/Effect_ASCIIfy.md))
+- [ASCIIfy Effect](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_ASCIIfy) (effect, asciify) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor/Effect_ASCIIfy.md))
 - [Blueberry smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/Blueberry.md))
 - [Bright Filter](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_bright) (filter, bright) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor_Filters/filters_bright.md))
 - [Buy blue boba](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
@@ -68,7 +68,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Plum smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/RedBerries.md))
 - [Share Photo](https://psalzAppDev.github.io/TwoSlideOverSupport/General/SharePhoto) (TwoSlideOver, share) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/General/SharePhoto.md))
-- [Slide To Compare](https://psalzAppDev.github.io/TwoSlideOverSupport/General/SlideToCompare) (TwoSlideOver, slide, compare) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/General/SlideToCompare.md))
+- [Slide To Compare](https://psalzAppDev.github.io/TwoSlideOverSupport/General/SlideToCompare) (slide, compare) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/General/SlideToCompare.md))
 - [Summer Filter](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_summer) (filter, summer) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor_Filters/filters_summer.md))
 - [Triangulation Effect](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_Triangulation) (TwoSlideOver, effect, triangulation) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor/Effect_Triangulation.md))
 
