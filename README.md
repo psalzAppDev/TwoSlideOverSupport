@@ -54,7 +54,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Buy blue boba](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
 - [Buy cream boba](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
 - [Buy orange boba](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
-- [Filters](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_general) (TwoSlideOver, filter) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor_Filters/filters_general.md))
+- [Filters](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_general) (filter) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor_Filters/filters_general.md))
 - [How to cook pizza](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
 - [How to eat burritos](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
 - [How to eat grilled cheese](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
@@ -69,7 +69,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Red berry smoothie](https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/Sample-Smoothies/RedBerries.md))
 - [Share Photo](https://psalzAppDev.github.io/TwoSlideOverSupport/General/SharePhoto) (TwoSlideOver, share) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/General/SharePhoto.md))
 - [Slide To Compare](https://psalzAppDev.github.io/TwoSlideOverSupport/General/SlideToCompare) (TwoSlideOver, slide, compare) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/General/SlideToCompare.md))
-- [Summer Filter](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_summer) (TwoSlideOver, filter, summer) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor_Filters/filters_summer.md))
+- [Summer Filter](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_summer) (filter, summer) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor_Filters/filters_summer.md))
 - [Triangulation Effect](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_Triangulation) (TwoSlideOver, effect, triangulation) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor/Effect_Triangulation.md))
 
 
