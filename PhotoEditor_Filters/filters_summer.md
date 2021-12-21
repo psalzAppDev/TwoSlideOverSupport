@@ -1,6 +1,6 @@
 ---
 title: Summer Filter
-tags: filter,summer
+tags: filter,summer,photoEditor
 ---
 
 # TwoSlideOver: Summer Filter
