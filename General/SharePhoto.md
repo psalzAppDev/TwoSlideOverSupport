@@ -1,6 +1,6 @@
 ---
 title: Share Photo
-tags: TwoSlideOver,share
+tags: general,share
 ---
 
 # TwoSlideOver: Share Photo
