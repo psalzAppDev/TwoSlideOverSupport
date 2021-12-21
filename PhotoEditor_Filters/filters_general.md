@@ -1,6 +1,6 @@
 ---
 title: Filters
-tags: TwoSlideOver,filter
+tags: filter
 ---
 
 # TwoSlideOver: Filters
