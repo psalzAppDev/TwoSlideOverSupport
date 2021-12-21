@@ -39,16 +39,17 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_ASCIIfy",
         "tags": [
             "effect",
-            "asciify"
+            "asciify",
+            "PhotoEditorGeneral"
         ]
     },
     {
         "title": "Triangulation Effect",
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_Triangulation",
         "tags": [
-            "TwoSlideOver",
             "effect",
-            "triangulation"
+            "triangulation",
+            "PhotoEditorGeneral"
         ]
     },
     {
@@ -120,7 +121,8 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/PhotoEditor_Overview",
         "tags": [
             "TwoSlideOver",
-            "PhotoEditor"
+            "PhotoEditor",
+            "PhotoEditorGeneral"
         ]
     },
     {
