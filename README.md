@@ -72,6 +72,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Share Photo](https://psalzAppDev.github.io/TwoSlideOverSupport/General/SharePhoto) (general, share) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/General/SharePhoto.md))
 - [Slide To Compare](https://psalzAppDev.github.io/TwoSlideOverSupport/General/SlideToCompare) (general, slide, compare) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/General/SlideToCompare.md))
 - [Summer Filter](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_summer) (filter, summer, photoEditor) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor_Filters/filters_summer.md))
+- [Sunny Filter](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_sunny) (filter, sunny, photoEditor) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor_Filters/filter_sunny.md))
 - [Triangulation Effect](https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_Triangulation) (effect, triangulation, PhotoEditorGeneral) ([edit](https://github.com/psalzAppDev/TwoSlideOverSupport/edit/DataSource/PhotoEditor/Effect_Triangulation.md))
 
 
