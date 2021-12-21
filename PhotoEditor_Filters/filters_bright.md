@@ -1,6 +1,6 @@
 ---
 title: Bright Filter
-tags: TwoSlideOver,filter,bright
+tags: filter,bright
 ---
 
 # TwoSlideOver: Bright Filter
