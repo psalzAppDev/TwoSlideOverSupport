@@ -1,6 +1,6 @@
 ---
 title: ASCIIfy Effect
-tags: effect,asciify
+tags: effect,asciify,PhotoEditorGeneral
 ---
 
 # TwoSlideOver: ASCIIfy Effect
