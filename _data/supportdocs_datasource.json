@@ -84,6 +84,14 @@
         ]
     },
     {
+        "title": "Import Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/ImportPhoto",
+        "tags": [
+            "TwoSlideOver",
+            "import"
+        ]
+    },
+    {
         "title": "Peach smoothie",
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/Sample-Smoothies/Peach",
         "tags": [
