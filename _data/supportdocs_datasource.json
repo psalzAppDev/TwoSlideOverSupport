@@ -171,5 +171,14 @@
             "TwoSlideOver",
             "filter"
         ]
+    },
+    {
+        "title": "Summer Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_summer",
+        "tags": [
+            "TwoSlideOver",
+            "filter",
+            "summer"
+        ]
     }
 ]
