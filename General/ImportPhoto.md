@@ -1,6 +1,6 @@
 ---
 title: Import Photo
-tags: import
+tags: import,general
 ---
 
 # TwoSlideOver: Import Photo
