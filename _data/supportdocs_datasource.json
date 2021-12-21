@@ -184,6 +184,15 @@
         ]
     },
     {
+        "title": "Rainy Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_rainy",
+        "tags": [
+            "filter",
+            "rainy",
+            "photoEditor"
+        ]
+    },
+    {
         "title": "Sunny Filter",
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_sunny",
         "tags": [
