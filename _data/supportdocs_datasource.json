@@ -36,7 +36,31 @@
     },
     {
         "title": "Crop a Photo",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/Cropping",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/Cropping_iPad_de",
+        "tags": [
+            "crop",
+            "general"
+        ]
+    },
+    {
+        "title": "Crop a Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/Cropping_iPad_en",
+        "tags": [
+            "crop",
+            "general"
+        ]
+    },
+    {
+        "title": "Crop a Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/Cropping_iPhone_de",
+        "tags": [
+            "crop",
+            "general"
+        ]
+    },
+    {
+        "title": "Crop a Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/Cropping_iPhone_en",
         "tags": [
             "crop",
             "general"
@@ -44,7 +68,34 @@
     },
     {
         "title": "ASCIIfy Effect",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_ASCIIfy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPad_de/Effect_ASCIIfy_iPad_de",
+        "tags": [
+            "effect",
+            "asciify",
+            "PhotoEditorGeneral"
+        ]
+    },
+    {
+        "title": "ASCIIfy Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPad_en/Effect_ASCIIfy_iPad_en",
+        "tags": [
+            "effect",
+            "asciify",
+            "PhotoEditorGeneral"
+        ]
+    },
+    {
+        "title": "ASCIIfy Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPhone_de/Effect_ASCIIfy_iPhone_de",
+        "tags": [
+            "effect",
+            "asciify",
+            "PhotoEditorGeneral"
+        ]
+    },
+    {
+        "title": "ASCIIfy Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPhone_en/Effect_ASCIIfy_iPhone_en",
         "tags": [
             "effect",
             "asciify",
@@ -53,7 +104,34 @@
     },
     {
         "title": "Triangulation Effect",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_Triangulation",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPad_de/Effect_Triangulation_iPad_de",
+        "tags": [
+            "effect",
+            "triangulation",
+            "PhotoEditorGeneral"
+        ]
+    },
+    {
+        "title": "Triangulation Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPad_en/Effect_Triangulation_iPad_en",
+        "tags": [
+            "effect",
+            "triangulation",
+            "PhotoEditorGeneral"
+        ]
+    },
+    {
+        "title": "Triangulation Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPhone_de/Effect_Triangulation_iPhone_de",
+        "tags": [
+            "effect",
+            "triangulation",
+            "PhotoEditorGeneral"
+        ]
+    },
+    {
+        "title": "Triangulation Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPhone_en/Effect_Triangulation_iPhone_en",
         "tags": [
             "effect",
             "triangulation",
@@ -111,7 +189,31 @@
     },
     {
         "title": "Import Photo",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/ImportPhoto",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/ImportPhoto_iPad_de",
+        "tags": [
+            "import",
+            "general"
+        ]
+    },
+    {
+        "title": "Import Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/ImportPhoto_iPad_en",
+        "tags": [
+            "import",
+            "general"
+        ]
+    },
+    {
+        "title": "Import Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/ImportPhoto_iPhone_de",
+        "tags": [
+            "import",
+            "general"
+        ]
+    },
+    {
+        "title": "Import Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/ImportPhoto_iPhone_en",
         "tags": [
             "import",
             "general"
@@ -119,7 +221,31 @@
     },
     {
         "title": "TwoSlideOver Overview",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/Overview",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/Overview_iPad_de",
+        "tags": [
+            "overview",
+            "general"
+        ]
+    },
+    {
+        "title": "TwoSlideOver Overview",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/Overview_iPad_en",
+        "tags": [
+            "overview",
+            "general"
+        ]
+    },
+    {
+        "title": "TwoSlideOver Overview",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/Overview_iPhone_de",
+        "tags": [
+            "overview",
+            "general"
+        ]
+    },
+    {
+        "title": "TwoSlideOver Overview",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/Overview_iPhone_en",
         "tags": [
             "overview",
             "general"
@@ -134,7 +260,34 @@
     },
     {
         "title": "Photo Editor",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/PhotoEditor_Overview",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPad_de/PhotoEditor_Overview_iPad_de",
+        "tags": [
+            "TwoSlideOver",
+            "PhotoEditor",
+            "PhotoEditorGeneral"
+        ]
+    },
+    {
+        "title": "Photo Editor",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPad_en/PhotoEditor_Overview_iPad_en",
+        "tags": [
+            "TwoSlideOver",
+            "PhotoEditor",
+            "PhotoEditorGeneral"
+        ]
+    },
+    {
+        "title": "Photo Editor",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPhone_de/PhotoEditor_Overview_iPhone_de",
+        "tags": [
+            "TwoSlideOver",
+            "PhotoEditor",
+            "PhotoEditorGeneral"
+        ]
+    },
+    {
+        "title": "Photo Editor",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_iPhone_en/PhotoEditor_Overview_iPhone_en",
         "tags": [
             "TwoSlideOver",
             "PhotoEditor",
@@ -150,7 +303,31 @@
     },
     {
         "title": "Privacy",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/Privacy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/Privacy_iPad_de",
+        "tags": [
+            "privacy",
+            "general"
+        ]
+    },
+    {
+        "title": "Privacy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/Privacy_iPad_en",
+        "tags": [
+            "privacy",
+            "general"
+        ]
+    },
+    {
+        "title": "Privacy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/Privacy_iPhone_de",
+        "tags": [
+            "privacy",
+            "general"
+        ]
+    },
+    {
+        "title": "Privacy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/Privacy_iPhone_en",
         "tags": [
             "privacy",
             "general"
@@ -165,7 +342,31 @@
     },
     {
         "title": "Share Photo",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/SharePhoto",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/SharePhoto_iPad_de",
+        "tags": [
+            "general",
+            "share"
+        ]
+    },
+    {
+        "title": "Share Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/SharePhoto_iPad_en",
+        "tags": [
+            "general",
+            "share"
+        ]
+    },
+    {
+        "title": "Share Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/SharePhoto_iPhone_de",
+        "tags": [
+            "general",
+            "share"
+        ]
+    },
+    {
+        "title": "Share Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/SharePhoto_iPhone_en",
         "tags": [
             "general",
             "share"
@@ -173,7 +374,34 @@
     },
     {
         "title": "Slide To Compare",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/SlideToCompare",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/SlideToCompare_iPad_de",
+        "tags": [
+            "general",
+            "slide",
+            "compare"
+        ]
+    },
+    {
+        "title": "Slide To Compare",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/SlideToCompare_iPad_en",
+        "tags": [
+            "general",
+            "slide",
+            "compare"
+        ]
+    },
+    {
+        "title": "Slide To Compare",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/SlideToCompare_iPhone_de",
+        "tags": [
+            "general",
+            "slide",
+            "compare"
+        ]
+    },
+    {
+        "title": "Slide To Compare",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/SlideToCompare_iPhone_en",
         "tags": [
             "general",
             "slide",
@@ -182,7 +410,34 @@
     },
     {
         "title": "Auto Enhance",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_autoEnhance",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_autoEnhance_iPad_de",
+        "tags": [
+            "edit",
+            "autoEnhance",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Auto Enhance",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_autoEnhance_iPad_en",
+        "tags": [
+            "edit",
+            "autoEnhance",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Auto Enhance",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_autoEnhance_iPhone_de",
+        "tags": [
+            "edit",
+            "autoEnhance",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Auto Enhance",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_autoEnhance_iPhone_en",
         "tags": [
             "edit",
             "autoEnhance",
@@ -191,7 +446,34 @@
     },
     {
         "title": "Edit Brightness",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_brightness",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_brightness_iPad_de",
+        "tags": [
+            "edit",
+            "brightness",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Brightness",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_brightness_iPad_en",
+        "tags": [
+            "edit",
+            "brightness",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Brightness",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_brightness_iPhone_de",
+        "tags": [
+            "edit",
+            "brightness",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Brightness",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_brightness_iPhone_en",
         "tags": [
             "edit",
             "brightness",
@@ -200,7 +482,34 @@
     },
     {
         "title": "Edit Clarity",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_clarity",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_clarity_iPad_de",
+        "tags": [
+            "edit",
+            "clarity",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Clarity",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_clarity_iPad_en",
+        "tags": [
+            "edit",
+            "clarity",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Clarity",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_clarity_iPhone_de",
+        "tags": [
+            "edit",
+            "clarity",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Clarity",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_clarity_iPhone_en",
         "tags": [
             "edit",
             "clarity",
@@ -209,7 +518,34 @@
     },
     {
         "title": "Edit Contrast",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_contrast",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_contrast_iPad_de",
+        "tags": [
+            "edit",
+            "contrast",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Contrast",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_contrast_iPad_en",
+        "tags": [
+            "edit",
+            "contrast",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Contrast",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_contrast_iPhone_de",
+        "tags": [
+            "edit",
+            "contrast",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Contrast",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_contrast_iPhone_en",
         "tags": [
             "edit",
             "contrast",
@@ -218,7 +554,34 @@
     },
     {
         "title": "Edit Exposure",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_exposure",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_exposure_iPad_de",
+        "tags": [
+            "edit",
+            "exposure",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Exposure",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_exposure_iPad_en",
+        "tags": [
+            "edit",
+            "exposure",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Exposure",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_exposure_iPhone_de",
+        "tags": [
+            "edit",
+            "exposure",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Exposure",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_exposure_iPhone_en",
         "tags": [
             "edit",
             "exposure",
@@ -227,7 +590,34 @@
     },
     {
         "title": "Edit Fade",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_fade",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_fade_iPad_de",
+        "tags": [
+            "edit",
+            "fade",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Fade",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_fade_iPad_en",
+        "tags": [
+            "edit",
+            "fade",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Fade",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_fade_iPhone_de",
+        "tags": [
+            "edit",
+            "fade",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Fade",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_fade_iPhone_en",
         "tags": [
             "edit",
             "fade",
@@ -236,7 +626,34 @@
     },
     {
         "title": "Edit Gamma Adjust",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_gammaAdjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_gammaAdjust_iPad_de",
+        "tags": [
+            "edit",
+            "gamma",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Gamma Adjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_gammaAdjust_iPad_en",
+        "tags": [
+            "edit",
+            "gamma",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Gamma Adjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_gammaAdjust_iPhone_de",
+        "tags": [
+            "edit",
+            "gamma",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Gamma Adjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_gammaAdjust_iPhone_en",
         "tags": [
             "edit",
             "gamma",
@@ -245,7 +662,34 @@
     },
     {
         "title": "Edit Highlights",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_highlights",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_highlights_iPad_de",
+        "tags": [
+            "edit",
+            "highlights",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Highlights",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_highlights_iPad_en",
+        "tags": [
+            "edit",
+            "highlights",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Highlights",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_highlights_iPhone_de",
+        "tags": [
+            "edit",
+            "highlights",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Highlights",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_highlights_iPhone_en",
         "tags": [
             "edit",
             "highlights",
@@ -254,7 +698,34 @@
     },
     {
         "title": "Edit Hue Adjust",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_hueAdjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_hueAdjust_iPad_de",
+        "tags": [
+            "edit",
+            "hueAdjust",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Hue Adjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_hueAdjust_iPad_en",
+        "tags": [
+            "edit",
+            "hueAdjust",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Hue Adjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_hueAdjust_iPhone_de",
+        "tags": [
+            "edit",
+            "hueAdjust",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Hue Adjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_hueAdjust_iPhone_en",
         "tags": [
             "edit",
             "hueAdjust",
@@ -263,7 +734,34 @@
     },
     {
         "title": "Edit Saturation",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_saturation",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_saturation_iPad_de",
+        "tags": [
+            "edit",
+            "saturation",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Saturation",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_saturation_iPad_en",
+        "tags": [
+            "edit",
+            "saturation",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Saturation",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_saturation_iPhone_de",
+        "tags": [
+            "edit",
+            "saturation",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Saturation",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_saturation_iPhone_en",
         "tags": [
             "edit",
             "saturation",
@@ -272,7 +770,34 @@
     },
     {
         "title": "Edit Shadows",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_shadows",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_shadows_iPad_de",
+        "tags": [
+            "edit",
+            "shadows",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Shadows",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_shadows_iPad_en",
+        "tags": [
+            "edit",
+            "shadows",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Shadows",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_shadows_iPhone_de",
+        "tags": [
+            "edit",
+            "shadows",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Shadows",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_shadows_iPhone_en",
         "tags": [
             "edit",
             "shadows",
@@ -281,7 +806,34 @@
     },
     {
         "title": "Sharpen",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_sharpen",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_sharpen_iPad_de",
+        "tags": [
+            "edit",
+            "sharpen",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Sharpen",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_sharpen_iPad_en",
+        "tags": [
+            "edit",
+            "sharpen",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Sharpen",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_sharpen_iPhone_de",
+        "tags": [
+            "edit",
+            "sharpen",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Sharpen",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_sharpen_iPhone_en",
         "tags": [
             "edit",
             "sharpen",
@@ -290,7 +842,34 @@
     },
     {
         "title": "Edit Temperature",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_temperature",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_temperature_iPad_de",
+        "tags": [
+            "edit",
+            "temperature",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Temperature",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_temperature_iPad_en",
+        "tags": [
+            "edit",
+            "temperature",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Temperature",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_temperature_iPhone_de",
+        "tags": [
+            "edit",
+            "temperature",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Temperature",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_temperature_iPhone_en",
         "tags": [
             "edit",
             "temperature",
@@ -299,7 +878,34 @@
     },
     {
         "title": "Edit Vibrancy",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_vibrancy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_vibrancy_iPad_de",
+        "tags": [
+            "edit",
+            "vibrancy",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Vibrancy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_vibrancy_iPad_en",
+        "tags": [
+            "edit",
+            "vibrancy",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Vibrancy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_vibrancy_iPhone_de",
+        "tags": [
+            "edit",
+            "vibrancy",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Vibrancy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_vibrancy_iPhone_en",
         "tags": [
             "edit",
             "vibrancy",
@@ -308,7 +914,34 @@
     },
     {
         "title": "Edit Vignette",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_vignette",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_vignette_iPad_de",
+        "tags": [
+            "edit",
+            "vignette",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Vignette",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_vignette_iPad_en",
+        "tags": [
+            "edit",
+            "vignette",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Vignette",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_vignette_iPhone_de",
+        "tags": [
+            "edit",
+            "vignette",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit Vignette",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_vignette_iPhone_en",
         "tags": [
             "edit",
             "vignette",
@@ -317,7 +950,34 @@
     },
     {
         "title": "Edit White Point Adjust",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits/edit_whitePointAdjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_de/edit_whitePointAdjust_iPad_de",
+        "tags": [
+            "edit",
+            "whitePointAdjust",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit White Point Adjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPad_en/edit_whitePointAdjust_iPad_en",
+        "tags": [
+            "edit",
+            "whitePointAdjust",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit White Point Adjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_de/edit_whitePointAdjust_iPhone_de",
+        "tags": [
+            "edit",
+            "whitePointAdjust",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Edit White Point Adjust",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Edits_iPhone_en/edit_whitePointAdjust_iPhone_en",
         "tags": [
             "edit",
             "whitePointAdjust",
