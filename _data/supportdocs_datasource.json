@@ -35,6 +35,14 @@
         ]
     },
     {
+        "title": "Crop a Photo",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General/Cropping",
+        "tags": [
+            "crop",
+            "general"
+        ]
+    },
+    {
         "title": "ASCIIfy Effect",
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor/Effect_ASCIIfy",
         "tags": [
