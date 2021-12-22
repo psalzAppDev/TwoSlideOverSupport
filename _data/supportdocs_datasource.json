@@ -39,7 +39,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/Cropping_iPad_de",
         "tags": [
             "crop",
-            "general"
+            "general",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -47,7 +49,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/Cropping_iPad_en",
         "tags": [
             "crop",
-            "general"
+            "general",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -55,7 +59,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/Cropping_iPhone_de",
         "tags": [
             "crop",
-            "general"
+            "general",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -63,7 +69,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/Cropping_iPhone_en",
         "tags": [
             "crop",
-            "general"
+            "general",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -72,7 +80,9 @@
         "tags": [
             "effect",
             "asciify",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -81,7 +91,9 @@
         "tags": [
             "effect",
             "asciify",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -90,7 +102,9 @@
         "tags": [
             "effect",
             "asciify",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -99,7 +113,9 @@
         "tags": [
             "effect",
             "asciify",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -108,7 +124,9 @@
         "tags": [
             "effect",
             "triangulation",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -117,7 +135,9 @@
         "tags": [
             "effect",
             "triangulation",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -126,7 +146,9 @@
         "tags": [
             "effect",
             "triangulation",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -135,7 +157,9 @@
         "tags": [
             "effect",
             "triangulation",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -192,7 +216,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/ImportPhoto_iPad_de",
         "tags": [
             "import",
-            "general"
+            "general",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -200,7 +226,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/ImportPhoto_iPad_en",
         "tags": [
             "import",
-            "general"
+            "general",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -208,7 +236,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/ImportPhoto_iPhone_de",
         "tags": [
             "import",
-            "general"
+            "general",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -216,7 +246,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/ImportPhoto_iPhone_en",
         "tags": [
             "import",
-            "general"
+            "general",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -224,7 +256,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/Overview_iPad_de",
         "tags": [
             "overview",
-            "general"
+            "general",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -232,7 +266,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/Overview_iPad_en",
         "tags": [
             "overview",
-            "general"
+            "general",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -240,7 +276,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/Overview_iPhone_de",
         "tags": [
             "overview",
-            "general"
+            "general",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -248,7 +286,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/Overview_iPhone_en",
         "tags": [
             "overview",
-            "general"
+            "general",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -264,7 +304,9 @@
         "tags": [
             "TwoSlideOver",
             "PhotoEditor",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -273,7 +315,9 @@
         "tags": [
             "TwoSlideOver",
             "PhotoEditor",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -282,7 +326,9 @@
         "tags": [
             "TwoSlideOver",
             "PhotoEditor",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -291,7 +337,9 @@
         "tags": [
             "TwoSlideOver",
             "PhotoEditor",
-            "PhotoEditorGeneral"
+            "PhotoEditorGeneral",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -306,7 +354,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/Privacy_iPad_de",
         "tags": [
             "privacy",
-            "general"
+            "general",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -314,7 +364,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/Privacy_iPad_en",
         "tags": [
             "privacy",
-            "general"
+            "general",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -322,7 +374,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/Privacy_iPhone_de",
         "tags": [
             "privacy",
-            "general"
+            "general",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -330,7 +384,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/Privacy_iPhone_en",
         "tags": [
             "privacy",
-            "general"
+            "general",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -345,7 +401,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_de/SharePhoto_iPad_de",
         "tags": [
             "general",
-            "share"
+            "share",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -353,7 +411,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPad_en/SharePhoto_iPad_en",
         "tags": [
             "general",
-            "share"
+            "share",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -361,7 +421,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_de/SharePhoto_iPhone_de",
         "tags": [
             "general",
-            "share"
+            "share",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -369,7 +431,9 @@
         "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/General_iPhone_en/SharePhoto_iPhone_en",
         "tags": [
             "general",
-            "share"
+            "share",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -378,7 +442,9 @@
         "tags": [
             "general",
             "slide",
-            "compare"
+            "compare",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -387,7 +453,9 @@
         "tags": [
             "general",
             "slide",
-            "compare"
+            "compare",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -396,7 +464,9 @@
         "tags": [
             "general",
             "slide",
-            "compare"
+            "compare",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -405,7 +475,9 @@
         "tags": [
             "general",
             "slide",
-            "compare"
+            "compare",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -414,7 +486,9 @@
         "tags": [
             "edit",
             "autoEnhance",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -423,7 +497,9 @@
         "tags": [
             "edit",
             "autoEnhance",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -432,7 +508,9 @@
         "tags": [
             "edit",
             "autoEnhance",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -441,7 +519,9 @@
         "tags": [
             "edit",
             "autoEnhance",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -450,7 +530,9 @@
         "tags": [
             "edit",
             "brightness",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -459,7 +541,9 @@
         "tags": [
             "edit",
             "brightness",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -468,7 +552,9 @@
         "tags": [
             "edit",
             "brightness",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -477,7 +563,9 @@
         "tags": [
             "edit",
             "brightness",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -486,7 +574,9 @@
         "tags": [
             "edit",
             "clarity",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -495,7 +585,9 @@
         "tags": [
             "edit",
             "clarity",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -504,7 +596,9 @@
         "tags": [
             "edit",
             "clarity",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -513,7 +607,9 @@
         "tags": [
             "edit",
             "clarity",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -522,7 +618,9 @@
         "tags": [
             "edit",
             "contrast",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -531,7 +629,9 @@
         "tags": [
             "edit",
             "contrast",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -540,7 +640,9 @@
         "tags": [
             "edit",
             "contrast",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -549,7 +651,9 @@
         "tags": [
             "edit",
             "contrast",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -558,7 +662,9 @@
         "tags": [
             "edit",
             "exposure",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -567,7 +673,9 @@
         "tags": [
             "edit",
             "exposure",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -576,7 +684,9 @@
         "tags": [
             "edit",
             "exposure",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -585,7 +695,9 @@
         "tags": [
             "edit",
             "exposure",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -594,7 +706,9 @@
         "tags": [
             "edit",
             "fade",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -603,7 +717,9 @@
         "tags": [
             "edit",
             "fade",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -612,7 +728,9 @@
         "tags": [
             "edit",
             "fade",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -621,7 +739,9 @@
         "tags": [
             "edit",
             "fade",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -630,7 +750,9 @@
         "tags": [
             "edit",
             "gamma",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -639,7 +761,9 @@
         "tags": [
             "edit",
             "gamma",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -648,7 +772,9 @@
         "tags": [
             "edit",
             "gamma",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -657,7 +783,9 @@
         "tags": [
             "edit",
             "gamma",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -666,7 +794,9 @@
         "tags": [
             "edit",
             "highlights",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -675,7 +805,9 @@
         "tags": [
             "edit",
             "highlights",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -684,7 +816,9 @@
         "tags": [
             "edit",
             "highlights",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -693,7 +827,9 @@
         "tags": [
             "edit",
             "highlights",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -702,7 +838,9 @@
         "tags": [
             "edit",
             "hueAdjust",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -711,7 +849,9 @@
         "tags": [
             "edit",
             "hueAdjust",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -720,7 +860,9 @@
         "tags": [
             "edit",
             "hueAdjust",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -729,7 +871,9 @@
         "tags": [
             "edit",
             "hueAdjust",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -738,7 +882,9 @@
         "tags": [
             "edit",
             "saturation",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -747,7 +893,9 @@
         "tags": [
             "edit",
             "saturation",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -756,7 +904,9 @@
         "tags": [
             "edit",
             "saturation",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -765,7 +915,9 @@
         "tags": [
             "edit",
             "saturation",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -774,7 +926,9 @@
         "tags": [
             "edit",
             "shadows",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -783,7 +937,9 @@
         "tags": [
             "edit",
             "shadows",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -792,7 +948,9 @@
         "tags": [
             "edit",
             "shadows",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -801,7 +959,9 @@
         "tags": [
             "edit",
             "shadows",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -810,7 +970,9 @@
         "tags": [
             "edit",
             "sharpen",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -819,7 +981,9 @@
         "tags": [
             "edit",
             "sharpen",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -828,7 +992,9 @@
         "tags": [
             "edit",
             "sharpen",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -837,7 +1003,9 @@
         "tags": [
             "edit",
             "sharpen",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -846,7 +1014,9 @@
         "tags": [
             "edit",
             "temperature",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -855,7 +1025,9 @@
         "tags": [
             "edit",
             "temperature",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -864,7 +1036,9 @@
         "tags": [
             "edit",
             "temperature",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -873,7 +1047,9 @@
         "tags": [
             "edit",
             "temperature",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -882,7 +1058,9 @@
         "tags": [
             "edit",
             "vibrancy",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -891,7 +1069,9 @@
         "tags": [
             "edit",
             "vibrancy",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -900,7 +1080,9 @@
         "tags": [
             "edit",
             "vibrancy",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -909,7 +1091,9 @@
         "tags": [
             "edit",
             "vibrancy",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -918,7 +1102,9 @@
         "tags": [
             "edit",
             "vignette",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -927,7 +1113,9 @@
         "tags": [
             "edit",
             "vignette",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -936,7 +1124,9 @@
         "tags": [
             "edit",
             "vignette",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -945,7 +1135,9 @@
         "tags": [
             "edit",
             "vignette",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
@@ -954,7 +1146,9 @@
         "tags": [
             "edit",
             "whitePointAdjust",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "de"
         ]
     },
     {
@@ -963,7 +1157,9 @@
         "tags": [
             "edit",
             "whitePointAdjust",
-            "photoEditor"
+            "photoEditor",
+            "iPad",
+            "en"
         ]
     },
     {
@@ -972,7 +1168,9 @@
         "tags": [
             "edit",
             "whitePointAdjust",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "de"
         ]
     },
     {
@@ -981,7 +1179,9 @@
         "tags": [
             "edit",
             "whitePointAdjust",
-            "photoEditor"
+            "photoEditor",
+            "iPhone",
+            "en"
         ]
     },
     {
