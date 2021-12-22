@@ -1,6 +1,6 @@
 ---
 title: Photo Editor
-tags: TwoSlideOver,PhotoEditor,PhotoEditorGeneral
+tags: TwoSlideOver,PhotoEditor,PhotoEditorGeneral,iPhone,de
 ---
 
 # TwoSlideOver Photo Editor
