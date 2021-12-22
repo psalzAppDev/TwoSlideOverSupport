@@ -1,6 +1,6 @@
 ---
 title: Edit Shadows
-tags: edit,shadows,photoEditor
+tags: edit,shadows,photoEditor,iPhone,en
 ---
 
 # TwoSlideOver: Edit Shadows

@@ -1,6 +1,6 @@
 ---
 title: Share Photo
-tags: general,share
+tags: general,share,iPhone,en
 ---
 
 # TwoSlideOver: Share Photo

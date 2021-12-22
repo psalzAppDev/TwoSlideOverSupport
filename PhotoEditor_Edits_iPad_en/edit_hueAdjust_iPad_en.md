@@ -1,6 +1,6 @@
 ---
 title: Edit Hue Adjust
-tags: edit,hueAdjust,photoEditor
+tags: edit,hueAdjust,photoEditor,iPad,en
 ---
 
 # TwoSlideOver: Edit Hue Adjust

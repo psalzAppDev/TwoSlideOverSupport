@@ -1,6 +1,6 @@
 ---
 title: Edit Temperature
-tags: edit,temperature,photoEditor
+tags: edit,temperature,photoEditor,iPhone,de
 ---
 
 # TwoSlideOver: Edit Temperature

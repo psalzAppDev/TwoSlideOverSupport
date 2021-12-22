@@ -1,6 +1,6 @@
 ---
 title: Edit Fade
-tags: edit,fade,photoEditor
+tags: edit,fade,photoEditor,iPhone,en
 ---
 
 # TwoSlideOver: Edit Fade

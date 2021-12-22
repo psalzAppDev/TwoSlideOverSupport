@@ -1,6 +1,6 @@
 ---
 title: Edit Exposure
-tags: edit,exposure,photoEditor
+tags: edit,exposure,photoEditor,iPad,de
 ---
 
 # TwoSlideOver: Edit Exposure

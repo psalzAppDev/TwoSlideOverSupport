@@ -1,6 +1,6 @@
 ---
 title: Edit Vignette
-tags: edit,vignette,photoEditor
+tags: edit,vignette,photoEditor,iPhone,de
 ---
 
 # TwoSlideOver: Edit Vignette

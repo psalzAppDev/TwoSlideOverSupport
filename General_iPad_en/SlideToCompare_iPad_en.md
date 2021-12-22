@@ -1,6 +1,6 @@
 ---
 title: Slide To Compare
-tags: general,slide,compare
+tags: general,slide,compare,iPad,en
 ---
 
 # TwoSlideOver: Slide To Compare

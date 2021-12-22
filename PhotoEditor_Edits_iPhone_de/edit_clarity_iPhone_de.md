@@ -1,6 +1,6 @@
 ---
 title: Edit Clarity
-tags: edit,clarity,photoEditor
+tags: edit,clarity,photoEditor,iPhone,de
 ---
 
 # TwoSlideOver: Edit Clarity

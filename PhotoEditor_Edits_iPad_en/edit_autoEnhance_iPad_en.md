@@ -1,6 +1,6 @@
 ---
 title: Auto Enhance
-tags: edit,autoEnhance,photoEditor
+tags: edit,autoEnhance,photoEditor,iPad,en
 ---
 
 # TwoSlideOver: Auto Enhance

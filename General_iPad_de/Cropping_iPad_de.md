@@ -1,6 +1,6 @@
 ---
 title: Crop a Photo
-tags: crop,general
+tags: crop,general,iPad,de
 ---
 
 # TwoSlideOver: Crop a Photo

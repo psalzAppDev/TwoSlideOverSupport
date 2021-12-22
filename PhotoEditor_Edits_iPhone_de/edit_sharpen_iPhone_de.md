@@ -1,6 +1,6 @@
 ---
 title: Sharpen
-tags: edit,sharpen,photoEditor
+tags: edit,sharpen,photoEditor,iPhone,de
 ---
 
 # TwoSlideOver: Sharpen

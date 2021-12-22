@@ -1,6 +1,6 @@
 ---
 title: TwoSlideOver Overview
-tags: overview,general
+tags: overview,general,iPad,de
 ---
 
 # TwoSlideOver: Overview

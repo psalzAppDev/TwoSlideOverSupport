@@ -1,6 +1,6 @@
 ---
 title: Edit Vibrancy
-tags: edit,vibrancy,photoEditor
+tags: edit,vibrancy,photoEditor,iPhone,de
 ---
 
 # TwoSlideOver: Vibrancy Saturation

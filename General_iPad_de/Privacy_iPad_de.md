@@ -1,6 +1,6 @@
 ---
 title: Privacy
-tags: privacy,general
+tags: privacy,general,iPad,de
 ---
 
 # TwoSlideOver: Privacy

@@ -1,6 +1,6 @@
 ---
 title: Edit Brightness
-tags: edit,brightness,photoEditor
+tags: edit,brightness,photoEditor,iPad,de
 ---
 
 # TwoSlideOver: Edit Brightness

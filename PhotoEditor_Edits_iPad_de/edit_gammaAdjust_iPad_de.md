@@ -1,6 +1,6 @@
 ---
 title: Edit Gamma Adjust
-tags: edit,gamma,photoEditor
+tags: edit,gamma,photoEditor,iPad,de
 ---
 
 # TwoSlideOver: Edit Gamma Adjust

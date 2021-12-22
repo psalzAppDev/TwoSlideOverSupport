@@ -1,6 +1,6 @@
 ---
 title: Import Photo
-tags: import,general
+tags: import,general,iPad,de
 ---
 
 # TwoSlideOver: Import Photo
