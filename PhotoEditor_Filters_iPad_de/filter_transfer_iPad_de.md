@@ -1,6 +1,6 @@
 ---
 title: Transfer Filter
-tags: filter,transfer,photoEditor
+tags: filter,transfer,photoEditor,iPad,de
 ---
 
 # TwoSlideOver: Transfer Filter

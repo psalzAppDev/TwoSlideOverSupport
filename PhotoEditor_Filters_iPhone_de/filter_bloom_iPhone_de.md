@@ -1,6 +1,6 @@
 ---
 title: Bloom Filter
-tags: filter,bloom,photoEditor
+tags: filter,bloom,photoEditor,iPhone,de
 ---
 
 # TwoSlideOver: Bloom Filter

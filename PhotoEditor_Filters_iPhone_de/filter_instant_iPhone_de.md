@@ -1,6 +1,6 @@
 ---
 title: Instant Filter
-tags: filter,instant,photoEditor
+tags: filter,instant,photoEditor,iPhone,de
 ---
 
 # TwoSlideOver: Instant Filter

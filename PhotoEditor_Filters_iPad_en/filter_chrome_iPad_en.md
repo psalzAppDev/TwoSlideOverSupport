@@ -1,6 +1,6 @@
 ---
 title: Chrome Filter
-tags: filter,chrome,photoEditor
+tags: filter,chrome,photoEditor,iPad,en
 ---
 
 # TwoSlideOver: Chrome Filter

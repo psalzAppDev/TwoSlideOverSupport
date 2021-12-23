@@ -1,6 +1,6 @@
 ---
 title: Noir Filter
-tags: filter,noir,photoEditor
+tags: filter,noir,photoEditor,iPhone,en
 ---
 
 # TwoSlideOver: Noir Filter

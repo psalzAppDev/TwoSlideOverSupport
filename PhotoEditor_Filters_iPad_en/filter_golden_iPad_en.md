@@ -1,6 +1,6 @@
 ---
 title: Golden Filter
-tags: filter,golden,photoEditor
+tags: filter,golden,photoEditor,iPad,en
 ---
 
 # TwoSlideOver: Golden Filter

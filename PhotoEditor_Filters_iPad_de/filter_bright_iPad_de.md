@@ -1,6 +1,6 @@
 ---
 title: Bright Filter
-tags: filter,bright,photoEditor
+tags: filter,bright,photoEditor,iPad,de
 ---
 
 # TwoSlideOver: Bright Filter

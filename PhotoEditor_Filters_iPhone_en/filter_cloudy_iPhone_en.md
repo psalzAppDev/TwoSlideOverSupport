@@ -1,6 +1,6 @@
 ---
 title: Cloudy Filter
-tags: filter,cloudy,photoEditor
+tags: filter,cloudy,photoEditor,iPhone,en
 ---
 
 # TwoSlideOver: Cloudy Filter

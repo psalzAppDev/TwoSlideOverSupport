@@ -1,6 +1,6 @@
 ---
 title: Filters
-tags: filter,photoEditor
+tags: filter,photoEditor,iPhone,en
 ---
 
 # TwoSlideOver: Filters

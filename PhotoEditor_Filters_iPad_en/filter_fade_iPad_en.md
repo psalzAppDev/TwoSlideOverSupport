@@ -1,6 +1,6 @@
 ---
 title: Fade Filter
-tags: filter,fade,photoEditor
+tags: filter,fade,photoEditor,iPad,en
 ---
 
 # TwoSlideOver: Fade Filter

@@ -1,6 +1,6 @@
 ---
 title: Silver Filter
-tags: filter,silver,photoEditor
+tags: filter,silver,photoEditor,iPhone,de
 ---
 
 # TwoSlideOver: Silver Filter

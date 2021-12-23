@@ -1,6 +1,6 @@
 ---
 title: Mono Filter
-tags: filter,mono,photoEditor
+tags: filter,mono,photoEditor,iPad,en
 ---
 
 # TwoSlideOver: Mono Filter

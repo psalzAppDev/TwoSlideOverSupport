@@ -1,6 +1,6 @@
 ---
 title: Sunny Filter
-tags: filter,sunny,photoEditor
+tags: filter,sunny,photoEditor,iPhone,en
 ---
 
 # TwoSlideOver: Sunny Filter
