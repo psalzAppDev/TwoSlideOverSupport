@@ -1,6 +1,6 @@
 ---
 title: Box Blur Effect
-tags: effect,boxBlur,photoEditor
+tags: effect,boxBlur,photoEditor,iPad,de
 ---
 
 # TwoSlideOver: Box Blur Effect

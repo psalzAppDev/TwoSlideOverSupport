@@ -1,6 +1,6 @@
 ---
 title: Surface Blur Effect
-tags: effect,surfaceBlur,photoEditor
+tags: effect,surfaceBlur,photoEditor,iPhone,de
 ---
 
 # TwoSlideOver: Surface Blur Effect
