@@ -1186,7 +1186,34 @@
     },
     {
         "title": "Blur Effect",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects/effect_blur",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_de/effect_blur_iPad_de",
+        "tags": [
+            "effect",
+            "blur",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Blur Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_en/effect_blur_iPad_en",
+        "tags": [
+            "effect",
+            "blur",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Blur Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_de/effect_blur_iPhone_de",
+        "tags": [
+            "effect",
+            "blur",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Blur Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_en/effect_blur_iPhone_en",
         "tags": [
             "effect",
             "blur",
@@ -1195,7 +1222,34 @@
     },
     {
         "title": "Box Blur Effect",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects/effect_boxBlur",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_de/effect_boxBlur_iPad_de",
+        "tags": [
+            "effect",
+            "boxBlur",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Box Blur Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_en/effect_boxBlur_iPad_en",
+        "tags": [
+            "effect",
+            "boxBlur",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Box Blur Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_de/effect_boxBlur_iPhone_de",
+        "tags": [
+            "effect",
+            "boxBlur",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Box Blur Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_en/effect_boxBlur_iPhone_en",
         "tags": [
             "effect",
             "boxBlur",
@@ -1204,7 +1258,34 @@
     },
     {
         "title": "Comic Effect",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects/effect_comicEffect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_de/effect_comicEffect_iPad_de",
+        "tags": [
+            "effect",
+            "comicEffect",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Comic Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_en/effect_comicEffect_iPad_en",
+        "tags": [
+            "effect",
+            "comicEffect",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Comic Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_de/effect_comicEffect_iPhone_de",
+        "tags": [
+            "effect",
+            "comicEffect",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Comic Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_en/effect_comicEffect_iPhone_en",
         "tags": [
             "effect",
             "comicEffect",
@@ -1213,7 +1294,34 @@
     },
     {
         "title": "Eight Bit Effect",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects/effect_eightBit",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_de/effect_eightBit_iPad_de",
+        "tags": [
+            "effect",
+            "eightBit",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Eight Bit Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_en/effect_eightBit_iPad_en",
+        "tags": [
+            "effect",
+            "eightBit",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Eight Bit Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_de/effect_eightBit_iPhone_de",
+        "tags": [
+            "effect",
+            "eightBit",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Eight Bit Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_en/effect_eightBit_iPhone_en",
         "tags": [
             "effect",
             "eightBit",
@@ -1222,7 +1330,34 @@
     },
     {
         "title": "Lens Distortion Effect",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects/effect_lensDistortion",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_de/effect_lensDistortion_iPad_de",
+        "tags": [
+            "effect",
+            "lensDistortion",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Lens Distortion Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_en/effect_lensDistortion_iPad_en",
+        "tags": [
+            "effect",
+            "lensDistortion",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Lens Distortion Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_de/effect_lensDistortion_iPhone_de",
+        "tags": [
+            "effect",
+            "lensDistortion",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Lens Distortion Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_en/effect_lensDistortion_iPhone_en",
         "tags": [
             "effect",
             "lensDistortion",
@@ -1231,7 +1366,34 @@
     },
     {
         "title": "Surface Blur Effect",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects/effect_surfaceBlur",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_de/effect_surfaceBlur_iPad_de",
+        "tags": [
+            "effect",
+            "surfaceBlur",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Surface Blur Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPad_en/effect_surfaceBlur_iPad_en",
+        "tags": [
+            "effect",
+            "surfaceBlur",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Surface Blur Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_de/effect_surfaceBlur_iPhone_de",
+        "tags": [
+            "effect",
+            "surfaceBlur",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Surface Blur Effect",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Effects_iPhone_en/effect_surfaceBlur_iPhone_en",
         "tags": [
             "effect",
             "surfaceBlur",
