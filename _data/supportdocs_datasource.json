@@ -1450,7 +1450,34 @@
     },
     {
         "title": "Autumn Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_autumn",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_autumn_iPad_de",
+        "tags": [
+            "filter",
+            "autumn",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Autumn Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_autumn_iPad_en",
+        "tags": [
+            "filter",
+            "autumn",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Autumn Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_autumn_iPhone_de",
+        "tags": [
+            "filter",
+            "autumn",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Autumn Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_autumn_iPhone_en",
         "tags": [
             "filter",
             "autumn",
@@ -1459,7 +1486,7 @@
     },
     {
         "title": "Bloom Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_bloom",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_bloom_iPad_de",
         "tags": [
             "filter",
             "bloom",
@@ -1467,8 +1494,98 @@
         ]
     },
     {
+        "title": "Bloom Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_bloom_iPad_en",
+        "tags": [
+            "filter",
+            "bloom",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Bloom Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_bloom_iPhone_de",
+        "tags": [
+            "filter",
+            "bloom",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Bloom Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_bloom_iPhone_en",
+        "tags": [
+            "filter",
+            "bloom",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Bright Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_bright_iPad_de",
+        "tags": [
+            "filter",
+            "bright",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Bright Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_bright_iPad_en",
+        "tags": [
+            "filter",
+            "bright",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Bright Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_bright_iPhone_de",
+        "tags": [
+            "filter",
+            "bright",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Bright Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_bright_iPhone_en",
+        "tags": [
+            "filter",
+            "bright",
+            "photoEditor"
+        ]
+    },
+    {
         "title": "Chrome Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_chrome",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_chrome_iPad_de",
+        "tags": [
+            "filter",
+            "chrome",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Chrome Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_chrome_iPad_en",
+        "tags": [
+            "filter",
+            "chrome",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Chrome Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_chrome_iPhone_de",
+        "tags": [
+            "filter",
+            "chrome",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Chrome Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_chrome_iPhone_en",
         "tags": [
             "filter",
             "chrome",
@@ -1477,7 +1594,34 @@
     },
     {
         "title": "Cloudy Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_cloudy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_cloudy_iPad_de",
+        "tags": [
+            "filter",
+            "cloudy",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Cloudy Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_cloudy_iPad_en",
+        "tags": [
+            "filter",
+            "cloudy",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Cloudy Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_cloudy_iPhone_de",
+        "tags": [
+            "filter",
+            "cloudy",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Cloudy Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_cloudy_iPhone_en",
         "tags": [
             "filter",
             "cloudy",
@@ -1486,7 +1630,34 @@
     },
     {
         "title": "Colorless Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_colorless",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_colorless_iPad_de",
+        "tags": [
+            "filter",
+            "colorless",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Colorless Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_colorless_iPad_en",
+        "tags": [
+            "filter",
+            "colorless",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Colorless Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_colorless_iPhone_de",
+        "tags": [
+            "filter",
+            "colorless",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Colorless Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_colorless_iPhone_en",
         "tags": [
             "filter",
             "colorless",
@@ -1495,7 +1666,7 @@
     },
     {
         "title": "Fade Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_fade",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_fade_iPad_de",
         "tags": [
             "filter",
             "fade",
@@ -1503,8 +1674,94 @@
         ]
     },
     {
+        "title": "Fade Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_fade_iPad_en",
+        "tags": [
+            "filter",
+            "fade",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Fade Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_fade_iPhone_de",
+        "tags": [
+            "filter",
+            "fade",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Fade Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_fade_iPhone_en",
+        "tags": [
+            "filter",
+            "fade",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Filters",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_general_iPad_de",
+        "tags": [
+            "filter",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Filters",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_general_iPad_en",
+        "tags": [
+            "filter",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Filters",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_general_iPhone_de",
+        "tags": [
+            "filter",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Filters",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_general_iPhone_en",
+        "tags": [
+            "filter",
+            "photoEditor"
+        ]
+    },
+    {
         "title": "Golden Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_golden",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_golden_iPad_de",
+        "tags": [
+            "filter",
+            "golden",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Golden Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_golden_iPad_en",
+        "tags": [
+            "filter",
+            "golden",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Golden Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_golden_iPhone_de",
+        "tags": [
+            "filter",
+            "golden",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Golden Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_golden_iPhone_en",
         "tags": [
             "filter",
             "golden",
@@ -1513,7 +1770,34 @@
     },
     {
         "title": "Instant Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_instant",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_instant_iPad_de",
+        "tags": [
+            "filter",
+            "instant",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Instant Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_instant_iPad_en",
+        "tags": [
+            "filter",
+            "instant",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Instant Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_instant_iPhone_de",
+        "tags": [
+            "filter",
+            "instant",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Instant Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_instant_iPhone_en",
         "tags": [
             "filter",
             "instant",
@@ -1522,7 +1806,34 @@
     },
     {
         "title": "Mono Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_mono",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_mono_iPad_de",
+        "tags": [
+            "filter",
+            "mono",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Mono Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_mono_iPad_en",
+        "tags": [
+            "filter",
+            "mono",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Mono Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_mono_iPhone_de",
+        "tags": [
+            "filter",
+            "mono",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Mono Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_mono_iPhone_en",
         "tags": [
             "filter",
             "mono",
@@ -1531,7 +1842,34 @@
     },
     {
         "title": "Noir Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_noir",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_noir_iPad_de",
+        "tags": [
+            "filter",
+            "noir",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Noir Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_noir_iPad_en",
+        "tags": [
+            "filter",
+            "noir",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Noir Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_noir_iPhone_de",
+        "tags": [
+            "filter",
+            "noir",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Noir Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_noir_iPhone_en",
         "tags": [
             "filter",
             "noir",
@@ -1540,7 +1878,34 @@
     },
     {
         "title": "Process Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_process",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_process_iPad_de",
+        "tags": [
+            "filter",
+            "process",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Process Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_process_iPad_en",
+        "tags": [
+            "filter",
+            "process",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Process Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_process_iPhone_de",
+        "tags": [
+            "filter",
+            "process",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Process Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_process_iPhone_en",
         "tags": [
             "filter",
             "process",
@@ -1549,7 +1914,34 @@
     },
     {
         "title": "Rainy Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_rainy",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_rainy_iPad_de",
+        "tags": [
+            "filter",
+            "rainy",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Rainy Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_rainy_iPad_en",
+        "tags": [
+            "filter",
+            "rainy",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Rainy Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_rainy_iPhone_de",
+        "tags": [
+            "filter",
+            "rainy",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Rainy Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_rainy_iPhone_en",
         "tags": [
             "filter",
             "rainy",
@@ -1558,7 +1950,7 @@
     },
     {
         "title": "Silver Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_silver",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_silver_iPad_de",
         "tags": [
             "filter",
             "silver",
@@ -1566,8 +1958,98 @@
         ]
     },
     {
+        "title": "Silver Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_silver_iPad_en",
+        "tags": [
+            "filter",
+            "silver",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Silver Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_silver_iPhone_de",
+        "tags": [
+            "filter",
+            "silver",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Silver Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_silver_iPhone_en",
+        "tags": [
+            "filter",
+            "silver",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Summer Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_summer_iPad_de",
+        "tags": [
+            "filter",
+            "summer",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Summer Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_summer_iPad_en",
+        "tags": [
+            "filter",
+            "summer",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Summer Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_summer_iPhone_de",
+        "tags": [
+            "filter",
+            "summer",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Summer Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_summer_iPhone_en",
+        "tags": [
+            "filter",
+            "summer",
+            "photoEditor"
+        ]
+    },
+    {
         "title": "Sunny Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_sunny",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_sunny_iPad_de",
+        "tags": [
+            "filter",
+            "sunny",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Sunny Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_sunny_iPad_en",
+        "tags": [
+            "filter",
+            "sunny",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Sunny Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_sunny_iPhone_de",
+        "tags": [
+            "filter",
+            "sunny",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Sunny Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_sunny_iPhone_en",
         "tags": [
             "filter",
             "sunny",
@@ -1576,7 +2058,34 @@
     },
     {
         "title": "Tonal Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_tonal",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_tonal_iPad_de",
+        "tags": [
+            "filter",
+            "tonal",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Tonal Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_tonal_iPad_en",
+        "tags": [
+            "filter",
+            "tonal",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Tonal Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_tonal_iPhone_de",
+        "tags": [
+            "filter",
+            "tonal",
+            "photoEditor"
+        ]
+    },
+    {
+        "title": "Tonal Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_tonal_iPhone_en",
         "tags": [
             "filter",
             "tonal",
@@ -1585,7 +2094,7 @@
     },
     {
         "title": "Transfer Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filter_transfer",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_de/filter_transfer_iPad_de",
         "tags": [
             "filter",
             "transfer",
@@ -1593,28 +2102,29 @@
         ]
     },
     {
-        "title": "Bright Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_bright",
+        "title": "Transfer Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPad_en/filter_transfer_iPad_en",
         "tags": [
             "filter",
-            "bright",
+            "transfer",
             "photoEditor"
         ]
     },
     {
-        "title": "Filters",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_general",
+        "title": "Transfer Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_de/filter_transfer_iPhone_de",
         "tags": [
             "filter",
+            "transfer",
             "photoEditor"
         ]
     },
     {
-        "title": "Summer Filter",
-        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters/filters_summer",
+        "title": "Transfer Filter",
+        "url": "https://psalzAppDev.github.io/TwoSlideOverSupport/PhotoEditor_Filters_iPhone_en/filter_transfer_iPhone_en",
         "tags": [
             "filter",
-            "summer",
+            "transfer",
             "photoEditor"
         ]
     }
