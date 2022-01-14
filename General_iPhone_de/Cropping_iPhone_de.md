@@ -16,6 +16,9 @@ Content TBD
 
 Bildausschnitt auswählen; Ausrichtung ändern, Rotieren, Größe ändern, mit Fertig bestätigen.
 
+<img style="display: block; margin-left: auto; margin-right: auto; width: 67%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg" alt="Foto beschneiden - Übersicht" title="Übersicht">
+</img>
+
 <div style="text-align: center; width: 67%;">
 
 ![Foto beschneiden - Übersicht](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg "Übersicht")
