@@ -7,8 +7,8 @@ tags: crop,general,iPhone,de
 
 Content TBD
 
-1. Übersicht
-2. Ausrichten
+1. [Übersicht](#übersicht)
+2. [Ausrichten](https://psalzappdev.github.io/TwoSlideOverSupport/General_iPhone_de/Cropping_iPhone_de#ausrichten)
 3. Größe ändern
 4. Rotieren
 
@@ -17,27 +17,13 @@ Content TBD
 Bildausschnitt auswählen; Ausrichtung ändern, Rotieren, Größe ändern, mit Fertig bestätigen.
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 67%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg" alt="Foto beschneiden - Übersicht" title="Übersicht">
-</img>
-
-<div style="text-align: center; width: 67%;">
-
-![Foto beschneiden - Übersicht](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg "Übersicht")
-
-</div>
 
 
 ## Ausrichten
 
 Blablablablabla
 
-<div style="margin-left: auto; margin-right: auto; width: 67%;">
-
-![Foto beschneiden - Ausrichten](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_002_cropping_02_align.jpg "Ausrichten")
-
-</div>
-
-
-<img src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg" alt="Foto beschneiden - Übersicht" title="Übersicht" width="50%"/> 
+<img style="display: block; margin-left: auto; margin-right: auto; width: 67%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_002_cropping_02_align.jpg" alt="Foto beschneiden - Ausrichten" title="Ausrichten">
 
 
 Übersicht | Ausrichten
