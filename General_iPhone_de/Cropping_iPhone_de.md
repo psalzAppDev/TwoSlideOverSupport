@@ -13,16 +13,28 @@ Content TBD
 4. Rotieren
 
 [Übersicht](#übersicht) | [Ausrichten](#ausrichten) | Größe ändern | Rotieren
---- | --- | --- | ---
+:---: | :---: | :---: | :---:
 <img style="width: 23%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg"> | <img style="width: 23%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_002_cropping_02_align.jpg"> | <img style="width: 23%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_003_cropping_03_resize.jpg"> | <img style="width: 23%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_004_cropping_04_rotate.jpg">
+
+<div align="center" style="width: 90%">
+
+[Übersicht](#übersicht) | [Ausrichten](#ausrichten) | Größe ändern | Rotieren
+:---: | :---: | :---: | :---:
+![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_002_cropping_02_align.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_003_cropping_03_resize.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_004_cropping_04_rotate.jpg)
+
+</div>
 
 <div style="margin-left: auto; margin-right: auto; width: 90%">
 
 [Übersicht](#übersicht) | [Ausrichten](#ausrichten) | Größe ändern | Rotieren
---- | --- | --- | ---
+:---: | :---: | :---: | :---:
 ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_002_cropping_02_align.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_003_cropping_03_resize.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_004_cropping_04_rotate.jpg)
 
 </div>
+
+[Übersicht](#übersicht) | [Ausrichten](#ausrichten) | Größe ändern | Rotieren
+:---: | :---: | :---: | :---:
+![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_002_cropping_02_align.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_003_cropping_03_resize.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_004_cropping_04_rotate.jpg)
 
 
 ## Übersicht
