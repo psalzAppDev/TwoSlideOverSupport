@@ -1,18 +1,18 @@
 ---
-title: Crop a Photo
+title: Ein Foto beschneiden
 tags: crop,general,iPhone,de
 ---
 
-# TwoSlideOver: Crop a Photo
+# TwoSlideOver: Ein Foto beschneiden
 
 Content TBD
 
-1. Overview
-2. Alignment
-3. Resizing
-4. Rotation 
+1. Übersicht
+2. Ausrichten
+3. Größe ändern
+4. Rotieren
 
-![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg){ width=20% }
+<img src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg" alt="Foto beschneiden - Übersicht" title="Übersicht" width="20%"/> 
 
 ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_002_cropping_02_align.jpg){ width=20% }
 
@@ -23,4 +23,4 @@ Content TBD
 
 Overview | Alignment | Resizing | Rotation
 --- | --- | --- | ---
-![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg){ width=17% } | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_002_cropping_02_align.jpg){ width=17% } | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_003_cropping_03_resize.jpg){ width=17% } | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_004_cropping_04_rotate.jpg){ width=17% }
+![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_002_cropping_02_align.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_003_cropping_03_resize.jpg) | ![](https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_004_cropping_04_rotate.jpg)
