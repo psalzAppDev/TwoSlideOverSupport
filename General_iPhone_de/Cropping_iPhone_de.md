@@ -27,14 +27,10 @@ Nachdem Du ein Foto gemacht oder ausgewählt hast, kannst du es bearbeiten.
 
 ## Zuschneiden
 
-- Wähle den optimalen Bildausschnitt aus:
-    - Ziehe den Rahmen an den vier Ecken.
-    - Vergrößere oder verkleinere den Ausschnitt mit zwei Fingern.
-    - Bewege den Ausschnitt mit einem Finger.
-- Ändere die Ausrichtung mit dem Drehrad.
-- Drehe das Foto um jeweils 90 Grad (Knopf neben "Abbrechen").
-- Passe das Seitenverhältnis an (Knopf neben "Fertig").
-- Drücke "Fertig", um die Änderungen zu übernehmen.
+Wähle den optimalen Bildausschnitt aus:
+- Ziehe den Rahmen an den vier Ecken.
+- Vergrößere oder verkleinere den Ausschnitt mit zwei Fingern.
+- Bewege den Ausschnitt mit einem Finger.
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 60%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_001_cropping_01_overview.jpg" alt="Foto beschneiden - Zuschneiden" title="Zuschneiden">
 
@@ -47,7 +43,7 @@ Benutze das Drehrad, um die Ausrichtung anzupassen. Nutze die Hilfslinien, um ge
 
 ## Seitenverhältnis
 
-Drücke den Knopf neben "Fertig", um eine Auswahl an Seitenverhältnissen anzuzeigen. Die erste Zahl steht für die Breite, die zweite Zahl steht für die Höhe.
+Drücke den Knopf neben "Fertig", um eine Auswahl an Seitenverhältnissen anzuzeigen. Die erste Zahl steht für die Breite, die zweite Zahl steht für die Höhe. Drücke den Knopf erneut, um noch weiter zu drehen.
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 60%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_003_cropping_03_resize.jpg" alt="Foto beschneiden - Seitenverhältnis" title="Seitenverhältnis">
 
