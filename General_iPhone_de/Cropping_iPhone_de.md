@@ -1,6 +1,6 @@
 ---
 title: Ein Foto beschneiden
-tags: crop,general,iPhone,de,boba
+tags: crop,general,iPhone,de
 ---
 
 # TwoSlideOver: Ein Foto beschneiden
