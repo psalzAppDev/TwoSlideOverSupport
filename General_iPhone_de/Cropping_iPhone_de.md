@@ -43,12 +43,12 @@ Benutze das Drehrad, um die Ausrichtung anzupassen. Nutze die Hilfslinien, um ge
 
 ## Seitenverhältnis
 
-Drücke den Knopf neben "Fertig", um eine Auswahl an Seitenverhältnissen anzuzeigen. Die erste Zahl steht für die Breite, die zweite Zahl steht für die Höhe.
+Drücke den Knopf neben _Fertig_, um eine Auswahl an Seitenverhältnissen anzuzeigen. Die erste Zahl steht für die Breite, die zweite Zahl steht für die Höhe.
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 60%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_003_cropping_03_resize.jpg" alt="Foto beschneiden - Seitenverhältnis" title="Seitenverhältnis">
 
 ## Rotieren
 
-Drücke den Knopf neben "Abbrechen", um das Bild um 90 Grad entgegen dem Uhrzeigersinn (nach links) zu drehen. Drücke den Knopf erneut, um noch weiter zu drehen.
+Drücke den Knopf neben _Abbrechen_, um das Bild um 90 Grad entgegen dem Uhrzeigersinn (nach links) zu drehen. Drücke den Knopf erneut, um noch weiter zu drehen.
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 60%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_004_cropping_04_rotate.jpg" alt="Foto beschneiden - Rotieren" title="Rotieren">

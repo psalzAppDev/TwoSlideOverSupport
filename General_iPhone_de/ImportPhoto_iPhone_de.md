@@ -16,4 +16,4 @@ Wähle dann im Menü entweder *Foto aufnehmen*, um die Kamera zu öffnen, oder *
 
 **Hinweis**: Um die Kamera in der App nutzen zu können, musst Du dies genehmigen. Du wirst automatisch danach gefragt. 
 
-<img style="display: block; margin-left: auto; margin-right: auto; width: 60%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Menü/General_iPhone_de/general_iPhone_de_006_thumbnail_tapped.jpg" alt="Foto importieren - Menü" title="Vorschaubild">
+<img style="display: block; margin-left: auto; margin-right: auto; width: 60%;" src="https://raw.githubusercontent.com/psalzAppDev/TwoSlideOverSupport/DataSource/Images/General_iPhone_de/general_iPhone_de_006_thumbnail_tapped.jpg" alt="Foto importieren - Menü" title="Menü">
